@@ -1,4 +1,5 @@
-<footer><p>&copy; 2020 Le Poles</p></footer>
+<footer>test</footer>
 </div>
 </body>
 </html>
+

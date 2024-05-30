@@ -1,7 +1,7 @@
 <?php
 include 'public/header.html.php';
 ?>
-<main class="content">liste</main>
+<main class="content">selecteur</main>
 <?php
 include 'public/footer.html.php';
 ?> 

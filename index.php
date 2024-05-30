@@ -1,10 +1,7 @@
 <?php
 include 'public/header.html.php';
 ?>
-<?php
-include 'public/nav.html.php';
-?>
-<main></main>
+<main class="content">Page d'accueil</main>
 <?php
 include 'public/footer.html.php';
 ?> 
