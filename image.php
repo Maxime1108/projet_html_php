@@ -1,7 +1,7 @@
 <?php
 include 'public/header.html.php';
 ?>
-<main class="content">image</main>
+<main class="image">image</main>
 <?php
 include 'public/footer.html.php';
 ?> 

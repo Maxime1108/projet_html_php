@@ -1,7 +1,7 @@
 <?php
 include 'public/header.html.php';
 ?>
-<main class="content">texte</main>
+<main class="texte">texte</main>
 <?php
 include 'public/footer.html.php';
 ?> 
